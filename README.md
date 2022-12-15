@@ -27,7 +27,7 @@ THEN I find a concise, descriptive title
 In this project, we are using html and css to to create a successful website. This webiste will assit Horiseon current and future business.
 
 The following image shows the web application's appearance and functionality:
-<img src="./assets/01-html-css-git-homework-demo.png" alt="Pic">
+![Example Picture](assets/01-html-css-git-homework-demo.png)
 
 ## Review
 
